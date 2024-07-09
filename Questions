@@ -1,0 +1,19 @@
+Questions for CS
+
+
+1. Fetch the top 5 age groups which have the highest number of Customers.
+2. Fetch the percentage of Male and Female Customers.
+3. Fetch the top 4 Categories with the highest sales.
+4. Fetch the percentage of top 5 Item Purchased.
+5. Fetch the top 5 locations where most orders come from and tell the percentage of orders
+from those locations.
+6. Based on the Size column, tell the percentage of order contribution for each Size.
+7. Fetch the top 4 colors bought by the customers.
+8. Fetch the Season which has the highest and second highest orders.
+9. Fetch the rating which was given maximum times by the customer.
+10. Which type of shipping has the highest amount of buyers?
+11. How many buyers have not used Promo code?
+12. How many buyers have purchased an item before?
+13. What are the top 3 payment method of the buyers?
+14. Which category has the most purchased amount?
+15. Which gender has the most ratings?
